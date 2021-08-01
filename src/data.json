@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name":"Shoes",
+            "cost": "499",
+            "imgUrl": "https://www.freeiconspng.com/thumbs/running-icon/running-shoe-icon-31.png"
+        },
+        {
+            "name":"Football",
+            "cost": "789",
+            "imgUrl": "http://simpleicon.com/wp-content/uploads/football.png"
+        },
+        {
+            "name":"Watch",
+            "cost": "2499",
+            "imgUrl": "https://library.kissclipart.com/20180922/qae/kissclipart-wrist-watch-icon-png-clipart-watch-computer-icons-eba06790bd975f12.png"
+        }
+    ]
+}

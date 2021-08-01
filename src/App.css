@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #9fbde5;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,41 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.App-header h2 {
+  color: darkblue;
+}
+.CurrencyLabel {
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  font-family: monospace;
+  left: 600px;
+  top: -15px;
+  position: relative;
+}
+.Product-Container {
+  color: black;
+  width: 50%;
+  margin: 0 auto;
+}
+.Product-Container > div {
+  display: flex;
+}
+.Product {
+  padding-right: 60px;
+}
+.Product img {
+  max-width: 200px;
+  min-height: 200px;
+}
+.Product label {
+  font-size: xx-large;
+  font-weight: 500;
+}
+.ddCurrency {
+  top: -10px;
+  left: 600px;
+}
 .App-link {
   color: #61dafb;
 }
