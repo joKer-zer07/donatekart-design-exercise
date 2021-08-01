@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Changing the API key
+
+Change the API key (if required) in "/src/apikey.js" file.
+
 ## Available Scripts
 
 In the project directory, you can run:
